@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.1'
+ruby '2.2.1p85'
 
 gem 'rails', '4.2.6'
 
@@ -22,7 +22,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'byebug'
 
-gem 'web-console', '~> 2.0'
+gem 'web-console', '~> 2.0', group: :development
 
 gem 'spring', group: :development
 
